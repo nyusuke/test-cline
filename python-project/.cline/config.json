@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "include": ["python"],
+    "exclude": ["react"]
+  }
+}
